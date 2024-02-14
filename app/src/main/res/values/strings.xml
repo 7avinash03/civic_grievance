@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Local Clamour</string>
+    <string name="Problem">Problem</string>
+    <string name="Description">Description</string>
+
+    <string name="Address">Address</string>
+    <string name="Form">Complaint Form</string>
+    <string name="Mobile">Mobile number</string>
+    <string name="Submit">Submit</string>
+    <string name="currloc">Use Current Location</string>
+    <string name="Close">Close</string>
+    <string name="Selectlang">Select your preferred language భాషను ఎంచుకోండి</string>
+    <string name="Capture">Add Image</string>
+    <string name="point1">Give the access to your current location\nప్రస్తుత లొకేషన్‌ని ఉపయోగించే ముందు మొబైల్‌లో లొకేషన్‌ని ఆన్ చేయండి</string>
+    <string name="point2">Capture the image clearly\nచిత్రాన్ని స్పష్టంగా క్యాప్చర్ చేయండి</string>
+    <string name="point3">Please wait until you are directed to complaint raised succesfully page\nఫిర్యాదు నమోదు పేజీ ప్రదర్శించబడే వరకు వేచి ఉండండి</string>
+    <string name="Public">Public\nపౌరులు</string>
+    <string name="Authority">Authority\nఅధికారులు</string>
+    <string name="ggpss">use current gps location</string>
+    <string name="Contact">Contact\nసంప్రదించండి</string>
+    <string name="Help">Help\nసహాయం</string>
+    <string name="English">English(ఆంగ్లము)</string>
+    <string name="Telugu">Telugu(తెలుగు)</string>
+    <string name="cyp">Choose your problem</string>
+    <string name="rrr">Road problems \n complaint form</string>
+    <string name="oth">Other problems</string>
+    <string name="wtp">Water Problem</string>
+    <string name="rp">Road Problem</string>
+    <string name="sll">Street Light</string>
+    <string name="orr">Other problems\n complaint form</string>
+    <string name="san">Sanitiztion</string>
+    <string name="slr">Sanitiztion \n Complaint Form</string>
+    <string name="www">Water problem \n Complaint Form</string>
+    <string name="sltt">Street light \n Complaint Form</string>
+    <string-array name="problem">
+        <item>--select--</item>
+        <item>Street Lights</item>
+        <item>Sanitization</item>
+        <item>Road pits</item>
+        <item>Water Leakage</item>
+    </string-array>
+
+</resources>

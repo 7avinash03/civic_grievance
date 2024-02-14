@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "106086571956",
+    "firebase_url": "https://myloginapp-8fa0a-default-rtdb.firebaseio.com",
+    "project_id": "myloginapp-8fa0a",
+    "storage_bucket": "myloginapp-8fa0a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106086571956:android:32000b59f747113b529ce1",
+        "android_client_info": {
+          "package_name": "com.example.civicgrievance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106086571956-unoqtv36i4c0tptutm77o6m46qkq1gso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoN8dhgHJvik9651LWVVCz9PE6xISeveY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106086571956-unoqtv36i4c0tptutm77o6m46qkq1gso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106086571956:android:eac2756a53881df1529ce1",
+        "android_client_info": {
+          "package_name": "com.example.myloginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "106086571956-unoqtv36i4c0tptutm77o6m46qkq1gso.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoN8dhgHJvik9651LWVVCz9PE6xISeveY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "106086571956-unoqtv36i4c0tptutm77o6m46qkq1gso.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

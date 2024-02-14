@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">స్థానిక కోలాహలం</string>
+    <string name="Problem">సమస్య</string>
+    <string name="Description">వివరణ</string>
+
+    <string name="Address">ప్రదేశం</string>
+    <string name="Form">ఫిర్యాదు పత్రం</string>
+    <string name="Mobile">మొబైల్ నంబర్</string>
+    <string name="Submit">పంపండి</string>
+    <string name="currloc">ప్రత్యక్ష ప్రదేశం</string>
+    <string name="Capture">ఫోటో అప్‌లోడ్</string>
+    <string name="Selectlang">Select your preferred language భాషను ఎంచుకోండి</string>
+    <string name="Close">ముగింపు</string>
+
+    <string name="point1">Give the access to your current location\nప్రస్తుత లొకేషన్‌ని ఉపయోగించే ముందు మొబైల్‌లో లొకేషన్‌ని ఆన్ చేయండి</string>
+    <string name="point2">Capture the image clearly\nచిత్రాన్ని స్పష్టంగా క్యాప్చర్ చేయండి</string>
+    <string name="point3">Please wait until you are directed to complaint raised succesfully page\nఫిర్యాదు నమోదు పేజీ ప్రదర్శించబడే వరకు వేచి ఉండండి</string>
+    <string name="Public">Public\nపౌరులు</string>
+    <string name="ggpss">ప్రస్తుత gps స్థానాన్ని ఉపయోగించండి</string>
+    <string name="Authority">Authority\nఅధికారులు</string>
+    <string name="Contact">Contact\nసంప్రదించండి</string>
+    <string name="Help">Help\nసహాయం</string>
+    <string name="English">English(ఆంగ్లము)</string>
+    <string name="Telugu">Telugu(తెలుగు)</string>
+    <string name="cyp">మీ సమస్యను ఎంచుకోండి</string>
+    <string name="oth">ఇతర సమస్యలు</string>
+    <string name="slr">పరిశుభ్రత\nఫిర్యాదు పత్రం</string>
+    <string name="wtp">నీటి సమస్య</string>
+    <string name="rp">రోడ్డు సమస్య</string>
+    <string name="sltt">వీధి దీపాలు \nఫిర్యాదు పత్రం</string>
+    <string name="sll">వీధి దీపాలు</string>
+    <string name="www">నీటి సమస్య \n ఫిర్యాదు పత్రం</string>
+    <string name="san">పరిశుభ్రత సమస్య</string>
+    <string name="orr">ఇతర సమస్యలు\n ఫిర్యాదు ఫారమ్</string>
+    <string name="rrr">రహదారి సమస్యలు \n ఫిర్యాదు ఫారమ్</string>
+
+    <string-array name="problem">
+        <item>--ఎంచుకోండి--</item>
+        <item>కరెంట్ స్తంభాలు</item>
+        <item>శుభ్రపరచడం</item>
+        <item>రోడ్డు గుంతలు</item>
+        <item>నీటి లీకేజీ</item>
+    </string-array>
+</resources>

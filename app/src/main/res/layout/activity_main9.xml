@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/img1"
+    tools:context=".MainActivity9">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="italic|bold"
+        android:textSize="40dp"
+        android:text="     Local Clamour"
+        android:textColor="@android:color/holo_blue_dark"
+        android:gravity="center"
+        android:layout_marginStart="35dp"
+        android:id="@+id/textview"
+        android:layout_marginTop="30dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Selectlang"
+        android:layout_marginTop="200dp"
+        android:layout_centerHorizontal="true"
+        android:textSize="25dp"
+        android:gravity="center"
+        android:id="@+id/txt"
+        android:textColor="@color/white"/>
+
+    <Button
+        android:id="@+id/english"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/txt"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="30dp"
+        android:layout_marginTop="40dp"
+        android:layout_marginEnd="30dp"
+        android:layout_marginBottom="30dp"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:onClick="onClick"
+        android:text="@string/English"
+        android:textColor="@color/material_dynamic_neutral100"
+        tools:layout_editor_absoluteX="141dp"
+        tools:layout_editor_absoluteY="212dp" />
+
+    <Button
+        android:id="@+id/telugu"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Telugu"
+        android:layout_centerHorizontal="true"
+        android:backgroundTint="@android:color/holo_green_light"
+        android:onClick="onClick"
+        android:layout_below="@id/english"
+        tools:layout_editor_absoluteX="146dp"
+        tools:layout_editor_absoluteY="412dp" />
+</RelativeLayout>
